@@ -422,6 +422,6 @@ Made with ❤️ by [Dev Book Lab](https://github.com/dev-book-lab)
 
 <br/>
 
-*"Redis를 캐시로 쓰는 것과, 데이터가 메모리에서 어떻게 저장되고 만료되는지 아는 것은 다르다"*
+**"Redis를 캐시로 쓰는 것과, 데이터가 메모리에서 어떻게 저장되고 만료되는지 아는 것은 다르다"**
 
 </div>
